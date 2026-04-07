@@ -1,0 +1,16 @@
+{
+  "name": "DragonFly TinyBLDC",
+  "version": "V1",
+  "builds": [
+    {
+      "chipFamily": "ESP32-C3",
+      "parts": [
+        {
+          "path": "Controller_Evo_V1.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
+
